@@ -1,0 +1,15 @@
+1. las ediciones debe listarse descendemtemente de las fechas  listo
+2. mejor cerrar la ventana despues de crear persona para habilitar las carpetas listo
+3. agregar boton atras en la ventana de registro nuevo	listo
+4. validacion de datos (recalco es opcional) (nombre,apellido, profesion) listo
+5. limpiar los espacios despues de registrar (todos los registros) listo
+7. poner el nombre del reporte (en el menu principal) listo
+
+
+8 verificar que siempre este lleno todos los campos listo
+9 revisar los botones del hijo listo listo
+tener cuidado con la x de la barra superior 
+
+evento
+
+revisar linq bd 

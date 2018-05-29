@@ -1,0 +1,60 @@
+﻿<Window x:Class="Proyecto.Pantalla2Inicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pantalla2Inicio" Height="600" Width="1000">
+    <Grid HorizontalAlignment="Right" Width="1000" Margin="0,0,-8,-4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="989*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu Margin="7,0,3,516" Background="#FFF44336">
+            <!--<MenuItem Header="_Archivo" Foreground="Red" Width="62" Click="MenuItem_Click_1">
+                <MenuItem Header="_Reportes"/>
+                <MenuItem Header="_Salir"/>
+            </MenuItem>-->
+            <!--<MenuItem Header="_Archivo" Foreground="Red" Width="62" Click="MenuItem_Click_1">
+                <MenuItem Header="_Reportes"/>
+                <MenuItem Header="_Salir"/>
+            </MenuItem>-->
+            <!--<MenuItem Header="_Archivo" Foreground="Red" Width="62" Click="MenuItem_Click_1">
+                <MenuItem Header="_Reportes"/>
+                <MenuItem Header="_Salir"/>
+            </MenuItem>-->
+            <MenuItem Header="_Herrmientas" Height="47" Foreground="White">
+                <MenuItem Header="Reporte de ediciones" x:Name="reportemostrar" Click="MenuItem_Click_1"/>
+                <MenuItem Header="Generar copia de seguridad" x:Name="copiaSeguridad" Click="copiaSeguridad_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Empleados" Height="46" Click="MenuItem_Click" Foreground="White">
+                <MenuItem Header="_Registro Nuevo" Click="NuevoEmpleado"/>
+            </MenuItem>
+        </Menu>
+
+        <!--<Label x:Name="lblFecha" Content="" HorizontalAlignment="Left" Margin="803,31,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.936,-0.34" FontWeight="Bold" Foreground="White" Background="{x:Null}"/>-->
+        <DataGrid x:Name="dgUsuarios" HorizontalAlignment="Left" Margin="75,197,0,0" VerticalAlignment="Top" Height="329" Width="844" SelectionChanged="dgUsuarios_SelectionChanged" MouseDoubleClick="dgUsuarios_MouseDoubleClick_1" AutoGenerateColumns="False" MinColumnWidth="116">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Ci" Binding="{Binding Path=Persona.Ci}" Header="Ci"/>
+                <DataGridTextColumn Binding="{Binding Path=Persona.Nombre}" Header="Nombres"/>
+                <DataGridTextColumn Binding="{Binding Path=Persona.Apellido}" Header="Apellidos"/>
+                <DataGridTextColumn Binding="{Binding Path=Persona.Direccion}" Header="Dirección"/>
+                <DataGridTextColumn Binding="{Binding Path=Persona.Telefono}" Header="Teléfono"/>
+                <DataGridTextColumn Binding="{Binding Path=FechaIngreso}" Header="Ingreso"/>
+                <DataGridTextColumn Binding="{Binding Path=HaberBasico}" Header="Haber Básico"/>
+                <!--<DataGridTemplateColumn Header="Informacion">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Button1_Click">Ver</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Administración de Nomina Emtagas" HorizontalAlignment="Left" Margin="307,71,0,0" VerticalAlignment="Top" Height="40" FontSize="20" FontWeight="Bold" Width="377"/>
+        <TextBox x:Name="txtBuscar" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" Margin="666,146,0,0" TextChanged="txtBuscar_TextChanged_1"/>
+        <Label Content="Ingresar Nombre Apellido o CI para Busqueda:" HorizontalAlignment="Left" Margin="405,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblUsuario" Content="" HorizontalAlignment="Left" Margin="803,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.936,-0.34" Foreground="White" Background="{x:Null}" FontFamily="Roboto" FontSize="14"/>
+        <Label x:Name="lblSalir" Content="Salir" HorizontalAlignment="Left" Margin="928,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.936,-0.34" Foreground="White" Background="{x:Null}" FontFamily="Roboto" FontSize="14" MouseDoubleClick="lblSalir_MouseDoubleClick"/>
+
+    </Grid>
+
+</Window>

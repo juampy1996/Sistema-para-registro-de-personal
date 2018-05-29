@@ -1,0 +1,5 @@
+/*consulta para mostrar hijo de persona*/\
+select Nombre, Nombre_Hijo, FechaNaciemiento_Hijo from HijoSet h, PersonaSet p where h.Persona_Id = p.Id
+
+
+select Nombre "Nombre del Personal", Nombre_Hijo "Nombre del hijo", FechaNaciemiento_Hijo from HijoSet h, PersonaSet p where h.Persona_Id = p.Id

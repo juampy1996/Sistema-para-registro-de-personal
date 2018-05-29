@@ -1,0 +1,57 @@
+﻿<Window x:Class="Proyecto.Pantalla6Detalle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pantalla6Detalle" Height="509.653" Width="700" Foreground="{x:Null}" Closing="Window_Closing" Closed="Window_Closed"
+        >
+    <Grid Margin="0,0,2,-4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="Black" Margin="394,45,96,232" BorderThickness="3">
+            <Image x:Name="imgFoto" Source="nofoto.png" HorizontalAlignment="Left" Stretch="UniformToFill" Height="193" VerticalAlignment="Top" Width="187" RenderTransformOrigin="0.648,0.604">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="nofoto.png"/>
+                </Image.OpacityMask>
+                <Image.Effect>
+                    <BlurEffect Radius="1"/>
+                </Image.Effect>
+            </Image>
+        </Border>
+        <Label Content="Ci:" HorizontalAlignment="Left" Margin="98,22,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombres:" HorizontalAlignment="Left" Margin="96,44,0,0" VerticalAlignment="Top"/>
+        <Label Content="Apellidos:" HorizontalAlignment="Left" Margin="96,70,0,0" VerticalAlignment="Top" Height="28"/>
+        <Label Content="Dirección:" HorizontalAlignment="Left" Margin="96,191,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label Content="Fecha de Nacimiento:" HorizontalAlignment="Left" Margin="96,132,0,0" VerticalAlignment="Top" Width="122" Height="26"/>
+        <Label Content="Teléfono:" HorizontalAlignment="Left" Margin="96,164,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.921,-0.308"/>
+        <Label Content="Género:" HorizontalAlignment="Left" Margin="98,102,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CONTARTO" Content="Tipo de Contrato:" HorizontalAlignment="Left" Margin="98,254,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,2.308"/>
+        <Label Content="Nivel:" HorizontalAlignment="Left" Margin="98,287,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,2.308"/>
+        <Label Content="Haber Básico:" HorizontalAlignment="Left" Margin="96,223,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,2.308"/>
+        <Label Content="Cargo:" HorizontalAlignment="Left" Margin="98,316,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,2.308"/>
+        <Label x:Name="AFP_Copy1" Content="Fecha de Ingreso:" HorizontalAlignment="Left" Margin="98,342,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,2.308"/>
+
+        <Label Content="" x:Name="ci" HorizontalAlignment="Left" Margin="126,22,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.367,-0.487"/>
+        <Label Content="" x:Name="nomre" HorizontalAlignment="Left" Margin="160,44,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="apellido" HorizontalAlignment="Left" Margin="160,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="genero" HorizontalAlignment="Left" Margin="152,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.567,3.756"/>
+        <Label Content="" x:Name="Fnacimiento" HorizontalAlignment="Left" Margin="219,132,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.231"/>
+        <Label Content="" x:Name="telefono" HorizontalAlignment="Left" Margin="157,164,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="direccion" HorizontalAlignment="Left" Margin="160,192,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="haberBasico" HorizontalAlignment="Left" Margin="191,223,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="TipoContrato" HorizontalAlignment="Left" Margin="215,253,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="Nivel" HorizontalAlignment="Left" Margin="146,287,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="Cargo" HorizontalAlignment="Left" Margin="153,316,0,0" VerticalAlignment="Top"/>
+        <Label Content="" x:Name="FechaIngreso" HorizontalAlignment="Left" Margin="201,342,0,0" VerticalAlignment="Top"/>
+        <Label Content="Profesión:"  HorizontalAlignment="Left" Margin="98,369,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="atras" Content="Atras" HorizontalAlignment="Left" Margin="360,395,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button x:Name="ver" Content="Ver" HorizontalAlignment="Left" Margin="440,395,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="imprimir" Content="Imprimir" HorizontalAlignment="Left" Margin="520,395,0,0" VerticalAlignment="Top" Width="90" Click="Button_Click_2"/>
+        <Label x:Name="Profesion" HorizontalAlignment="Left" Margin="162,369,0,0" VerticalAlignment="Top"/>
+        <Label Content="Estado:"  HorizontalAlignment="Left" Margin="98,395,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Estado" HorizontalAlignment="Left" Margin="162,395,0,0" VerticalAlignment="Top"/>
+        <Label Content="Direccion o regional:"  HorizontalAlignment="Left" Margin="98,422,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DireccionRegional" HorizontalAlignment="Left" Margin="222,422,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.7,1"/>
+
+
+    </Grid>
+</Window>

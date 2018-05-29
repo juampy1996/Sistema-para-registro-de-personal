@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="PersonaSet" EntityType="Model1.Store.PersonaSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PersonalSet" EntityType="Model1.Store.PersonalSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CargoSet" EntityType="Model1.Store.CargoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tipo_ContratoSet" EntityType="Model1.Store.Tipo_ContratoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NivelSet" EntityType="Model1.Store.NivelSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UsuarioSet" EntityType="Model1.Store.UsuarioSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ConyugueSet" EntityType="Model1.Store.ConyugueSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HijoSet" EntityType="Model1.Store.HijoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Reporte_edicionSet" EntityType="Model1.Store.Reporte_edicionSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EstadoSet" EntityType="Model1.Store.EstadoSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="PersonaPersonal" Association="Model1.Store.PersonaPersonal">
+      <End Role="Persona" EntitySet="PersonaSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="CargoPersonal" Association="Model1.Store.CargoPersonal">
+      <End Role="Cargo" EntitySet="CargoSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="Tipo_ContratoPersonal" Association="Model1.Store.Tipo_ContratoPersonal">
+      <End Role="Tipo_Contrato" EntitySet="Tipo_ContratoSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="NivelPersonal" Association="Model1.Store.NivelPersonal">
+      <End Role="Nivel" EntitySet="NivelSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="UsuarioPersonal" Association="Model1.Store.UsuarioPersonal">
+      <End Role="Usuario" EntitySet="UsuarioSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="ConyuguePersona" Association="Model1.Store.ConyuguePersona">
+      <End Role="Conyugue" EntitySet="ConyugueSet" />
+      <End Role="Persona" EntitySet="PersonaSet" />
+    </AssociationSet>
+    <AssociationSet Name="PersonaHijo" Association="Model1.Store.PersonaHijo">
+      <End Role="Persona" EntitySet="PersonaSet" />
+      <End Role="Hijo" EntitySet="HijoSet" />
+    </AssociationSet>
+    <AssociationSet Name="EstadoPersonal" Association="Model1.Store.EstadoPersonal">
+      <End Role="Estado" EntitySet="EstadoSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="PersonaSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ci" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Apellido" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Genero" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Telefono" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Foto" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Profesion" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PersonalSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HaberBasico" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FechaIngreso" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FechaRegistro" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DireccionRegional" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Persona_Id" Type="int" Nullable="false" />
+    <Property Name="Cargo1_Id" Type="int" Nullable="false" />
+    <Property Name="Tipo_Contrato_Id" Type="int" Nullable="false" />
+    <Property Name="Nivel1_Id" Type="int" Nullable="false" />
+    <Property Name="Usuario_Id" Type="int" Nullable="false" />
+    <Property Name="Estado_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CargoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreCargo" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tipo_ContratoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_TipoContrato" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NivelSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreNivel" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UsuarioSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Passsword" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ConyugueSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ci_Conyugue" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Nombre_Conyugue" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Apellido_Conyugue" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="FechaNacimiento_Conyugue" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Genero_Conyugue" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Persona_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HijoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ci_Hijo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Nombre_Hijo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Apellido_Hijo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FechaNaciemiento_Hijo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Genero_Hijo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Persona_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Reporte_edicionSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fecha_Edicion" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Persona_Editada" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Tipo_edicion" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Usario_Editor" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreEstado" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="PersonaPersonal">
+    <End Role="Persona" Type="Model1.Store.PersonaSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Persona_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CargoPersonal">
+    <End Role="Cargo" Type="Model1.Store.CargoSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cargo">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Cargo1_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Tipo_ContratoPersonal">
+    <End Role="Tipo_Contrato" Type="Model1.Store.Tipo_ContratoSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tipo_Contrato">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Tipo_Contrato_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="NivelPersonal">
+    <End Role="Nivel" Type="Model1.Store.NivelSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nivel">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Nivel1_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UsuarioPersonal">
+    <End Role="Usuario" Type="Model1.Store.UsuarioSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Usuario_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ConyuguePersona">
+    <End Role="Conyugue" Type="Model1.Store.ConyugueSet" Multiplicity="*" />
+    <End Role="Persona" Type="Model1.Store.PersonaSet" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Conyugue">
+        <PropertyRef Name="Persona_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PersonaHijo">
+    <End Role="Persona" Type="Model1.Store.PersonaSet" Multiplicity="1" />
+    <End Role="Hijo" Type="Model1.Store.HijoSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Hijo">
+        <PropertyRef Name="Persona_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EstadoPersonal">
+    <End Role="Estado" Type="Model1.Store.EstadoSet" Multiplicity="1" />
+    <End Role="Personal" Type="Model1.Store.PersonalSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Personal">
+        <PropertyRef Name="Estado_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

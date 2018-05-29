@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonaSet" EntityType="Model1.Persona" />
+    <EntitySet Name="PersonalSet" EntityType="Model1.Personal" />
+    <EntitySet Name="CargoSet" EntityType="Model1.Cargo" />
+    <AssociationSet Name="PersonaPersonal" Association="Model1.PersonaPersonal">
+      <End Role="Persona" EntitySet="PersonaSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="CargoPersonal" Association="Model1.CargoPersonal">
+      <End Role="Cargo" EntitySet="CargoSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <EntitySet Name="Tipo_ContratoSet" EntityType="Model1.Tipo_Contrato" />
+    <EntitySet Name="NivelSet" EntityType="Model1.Nivel" />
+    <AssociationSet Name="Tipo_ContratoPersonal" Association="Model1.Tipo_ContratoPersonal">
+      <End Role="Tipo_Contrato" EntitySet="Tipo_ContratoSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <AssociationSet Name="NivelPersonal" Association="Model1.NivelPersonal">
+      <End Role="Nivel" EntitySet="NivelSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <EntitySet Name="UsuarioSet" EntityType="Model1.Usuario" />
+    <AssociationSet Name="UsuarioPersonal" Association="Model1.UsuarioPersonal">
+      <End Role="Usuario" EntitySet="UsuarioSet" />
+      <End Role="Personal" EntitySet="PersonalSet" />
+    </AssociationSet>
+    <EntitySet Name="ConyugueSet" EntityType="Model1.Conyugue" />
+    <AssociationSet Name="ConyuguePersona" Association="Model1.ConyuguePersona">
+      <End Role="Conyugue" EntitySet="ConyugueSet" />
+      <End Role="Persona" EntitySet="PersonaSet" />
+    </AssociationSet>
+    <EntitySet Name="HijoSet" EntityType="Model1.Hijo" />
+    <AssociationSet Name="PersonaHijo" Association="Model1.PersonaHijo">
+      <End Role="Persona" EntitySet="PersonaSet" />
+      <End Role="Hijo" EntitySet="HijoSet" />
+    </AssociationSet>
+    <EntitySet Name="Reporte_edicionSet" EntityType="Model1.Reporte_edicion" />
+  </EntityContainer>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ci" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Apellido" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Genero" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FechaNacimiento" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Telefono" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Direccion" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Personal" Relationship="Model1.PersonaPersonal" FromRole="Persona" ToRole="Personal" />
+    <Property Name="Foto" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Profesion" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Conyugue" Relationship="Model1.ConyuguePersona" FromRole="Persona" ToRole="Conyugue" />
+    <NavigationProperty Name="Hijo" Relationship="Model1.PersonaHijo" FromRole="Persona" ToRole="Hijo" />
+  </EntityType>
+  <EntityType Name="Personal">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HaberBasico" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FechaIngreso" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Persona" Relationship="Model1.PersonaPersonal" FromRole="Personal" ToRole="Persona" />
+    <NavigationProperty Name="Cargo1" Relationship="Model1.CargoPersonal" FromRole="Personal" ToRole="Cargo" />
+    <NavigationProperty Name="Tipo_Contrato" Relationship="Model1.Tipo_ContratoPersonal" FromRole="Personal" ToRole="Tipo_Contrato" />
+    <NavigationProperty Name="Nivel1" Relationship="Model1.NivelPersonal" FromRole="Personal" ToRole="Nivel" />
+    <NavigationProperty Name="Usuario" Relationship="Model1.UsuarioPersonal" FromRole="Personal" ToRole="Usuario" />
+    <Property Name="FechaRegistro" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Cargo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreCargo" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Personal" Relationship="Model1.CargoPersonal" FromRole="Cargo" ToRole="Personal" />
+  </EntityType>
+  <Association Name="PersonaPersonal">
+    <End Type="Model1.Persona" Role="Persona" Multiplicity="1" />
+    <End Type="Model1.Personal" Role="Personal" Multiplicity="0..1" />
+  </Association>
+  <Association Name="CargoPersonal">
+    <End Type="Model1.Cargo" Role="Cargo" Multiplicity="1" />
+    <End Type="Model1.Personal" Role="Personal" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Tipo_Contrato">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Personal" Relationship="Model1.Tipo_ContratoPersonal" FromRole="Tipo_Contrato" ToRole="Personal" />
+    <Property Name="Nombre_TipoContrato" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Nivel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Personal" Relationship="Model1.NivelPersonal" FromRole="Nivel" ToRole="Personal" />
+    <Property Name="NombreNivel" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <Association Name="Tipo_ContratoPersonal">
+    <End Type="Model1.Tipo_Contrato" Role="Tipo_Contrato" Multiplicity="1" />
+    <End Type="Model1.Personal" Role="Personal" Multiplicity="*" />
+  </Association>
+  <Association Name="NivelPersonal">
+    <End Type="Model1.Nivel" Role="Nivel" Multiplicity="1" />
+    <End Type="Model1.Personal" Role="Personal" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Passsword" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Personal" Relationship="Model1.UsuarioPersonal" FromRole="Usuario" ToRole="Personal" />
+  </EntityType>
+  <Association Name="UsuarioPersonal">
+    <End Type="Model1.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="Model1.Personal" Role="Personal" Multiplicity="0..1" />
+  </Association>
+  <EntityType Name="Conyugue">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ci_Conyugue" Type="String" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Nombre_Conyugue" Type="String" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Apellido_Conyugue" Type="String" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FechaNacimiento_Conyugue" Type="String" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Persona" Relationship="Model1.ConyuguePersona" FromRole="Conyugue" ToRole="Persona" />
+    <Property Name="Genero_Conyugue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="ConyuguePersona">
+    <End Type="Model1.Conyugue" Role="Conyugue" Multiplicity="0..1" />
+    <End Type="Model1.Persona" Role="Persona" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Hijo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ci_Hijo" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Nombre_Hijo" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Apellido_Hijo" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FechaNaciemiento_Hijo" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Persona" Relationship="Model1.PersonaHijo" FromRole="Hijo" ToRole="Persona" />
+    <Property Name="Genero_Hijo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <Association Name="PersonaHijo">
+    <End Type="Model1.Persona" Role="Persona" Multiplicity="1" />
+    <End Type="Model1.Hijo" Role="Hijo" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Reporte_edicion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha_Edicion" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Persona_Editada" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Tipo_edicion" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Usario_Editor" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>

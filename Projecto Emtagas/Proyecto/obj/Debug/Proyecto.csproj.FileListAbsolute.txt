@@ -1,0 +1,753 @@
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe.config
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla2Inicio.baml
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\App.g.cs
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.g.resources
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.exe
+c:\users\marlene\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\App.baml
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\MARLENE\documents\visual studio 2012\Projects\Projecto Emtagas\Proyecto\obj\Debug\Pantalla1Login.g.cs
+D:\Juampy Multimedia\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Juampy Multimedia\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.exe
+D:\Juampy Multimedia\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas2\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas2\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas2\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\porsi\Projecto Emtagas2\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\porsi\Projecto Emtagas2\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\porsi\Projecto Emtagas2\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas3\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas4\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas5\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas6\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas7\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\todo\PracticaProfesional\Projecto Emtagas8\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\todo\PracticaProfesional\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\todo\PracticaProfesional\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas8\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas9 (CRUD)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas10 (CRUD)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas11 (CRUD)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas12 (CRUD)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas13 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas14 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas15 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas16 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas17 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas18 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas19 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas20 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas20 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas20 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas21 (CRUD, LOGIN)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas22\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\App.baml
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\App.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\DESARROLLADOR\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla8Hijo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Pantalla8Hijo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas26\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla9Reporte.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla9Reporte.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignColors.dll
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignColors.pdb
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\todoEmtagas\prueba\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\todoEmtagas\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\todoEmtagas\prueba\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignColors.dll
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignColors.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla9Reporte.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla8Hijo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Pantalla9Reporte.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas23\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\MaterialDesignColors.dll
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\MaterialDesignColors.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla2Inicio.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla3Empleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla1Login.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla5Cargo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla6Detalle.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla7Nivel.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla8Hijo.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla9Reporte.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla2Inicio.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla3Empleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla4RegistroEmpleado.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla1Login.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla5Cargo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla6Detalle.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla7Nivel.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla8Hijo.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Pantalla9Reporte.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto_Content.g.cs
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto_MarkupCompile.cache
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.g.resources
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\usuario\Desktop\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Projecto Emtagas\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\usuario\Desktop\Nueva carpeta\Projecto Emtagas\Proyecto\obj\Debug\Proyecto.pdb

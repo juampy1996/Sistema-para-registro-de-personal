@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bdef994fa78540e1b046ca6de52280a3" Name="Diagram1" ZoomLevel="78" >
+        <EntityTypeShape EntityType="Model1.Persona" Width="1.5" PointX="7.875" PointY="3.75" />
+        <EntityTypeShape EntityType="Model1.Personal" Width="1.5" PointX="10.75" PointY="4.125" />
+        <EntityTypeShape EntityType="Model1.Cargo" Width="1.5" PointX="16.5" PointY="6.125" />
+        <AssociationConnector Association="Model1.PersonaPersonal" />
+        <AssociationConnector Association="Model1.CargoPersonal" />
+        <EntityTypeShape EntityType="Model1.Tipo_Contrato" Width="1.5" PointX="13.5" PointY="2.375" />
+        <EntityTypeShape EntityType="Model1.Nivel" Width="1.5" PointX="15.875" PointY="3.875" />
+        <AssociationConnector Association="Model1.Tipo_ContratoPersonal" />
+        <AssociationConnector Association="Model1.NivelPersonal" />
+        <EntityTypeShape EntityType="Model1.Usuario" Width="1.5" PointX="9.875" PointY="8.25" />
+        <AssociationConnector Association="Model1.UsuarioPersonal" />
+        <EntityTypeShape EntityType="Model1.Conyugue" Width="1.5" PointX="5.625" PointY="3.875" />
+        <AssociationConnector Association="Model1.ConyuguePersona" />
+        <EntityTypeShape EntityType="Model1.Hijo" Width="3.5" PointX="2.75" PointY="6.75" />
+        <AssociationConnector Association="Model1.PersonaHijo" />
+        <EntityTypeShape EntityType="Model1.Reporte_edicion" Width="1.625" PointX="9.25" PointY="0.75" />
+        <EntityTypeShape EntityType="Model1.Estado" Width="1.5" PointX="13.25" PointY="7.875" />
+        <AssociationConnector Association="Model1.EstadoPersonal" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

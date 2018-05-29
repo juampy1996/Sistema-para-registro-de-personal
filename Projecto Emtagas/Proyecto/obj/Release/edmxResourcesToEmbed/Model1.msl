@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model1StoreContainer" CdmEntityContainer="Model1Container">
+    <EntitySetMapping Name="PersonaSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Persona)">
+        <MappingFragment StoreEntitySet="PersonaSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ci" ColumnName="Ci" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Genero" ColumnName="Genero" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Foto" ColumnName="Foto" />
+          <ScalarProperty Name="Profesion" ColumnName="Profesion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonalSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Personal)">
+        <MappingFragment StoreEntitySet="PersonalSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="HaberBasico" ColumnName="HaberBasico" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CargoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Cargo)">
+        <MappingFragment StoreEntitySet="CargoSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreCargo" ColumnName="NombreCargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tipo_ContratoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Tipo_Contrato)">
+        <MappingFragment StoreEntitySet="Tipo_ContratoSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre_TipoContrato" ColumnName="Nombre_TipoContrato" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NivelSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Nivel)">
+        <MappingFragment StoreEntitySet="NivelSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreNivel" ColumnName="NombreNivel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsuarioSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Usuario)">
+        <MappingFragment StoreEntitySet="UsuarioSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Passsword" ColumnName="Passsword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ConyugueSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Conyugue)">
+        <MappingFragment StoreEntitySet="ConyugueSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ci_Conyugue" ColumnName="Ci_Conyugue" />
+          <ScalarProperty Name="Nombre_Conyugue" ColumnName="Nombre_Conyugue" />
+          <ScalarProperty Name="Apellido_Conyugue" ColumnName="Apellido_Conyugue" />
+          <ScalarProperty Name="FechaNacimiento_Conyugue" ColumnName="FechaNacimiento_Conyugue" />
+          <ScalarProperty Name="Genero_Conyugue" ColumnName="Genero_Conyugue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HijoSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Hijo)">
+        <MappingFragment StoreEntitySet="HijoSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ci_Hijo" ColumnName="Ci_Hijo" />
+          <ScalarProperty Name="Nombre_Hijo" ColumnName="Nombre_Hijo" />
+          <ScalarProperty Name="Apellido_Hijo" ColumnName="Apellido_Hijo" />
+          <ScalarProperty Name="FechaNaciemiento_Hijo" ColumnName="FechaNaciemiento_Hijo" />
+          <ScalarProperty Name="Genero_Hijo" ColumnName="Genero_Hijo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reporte_edicionSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Reporte_edicion)">
+        <MappingFragment StoreEntitySet="Reporte_edicionSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha_Edicion" ColumnName="Fecha_Edicion" />
+          <ScalarProperty Name="Persona_Editada" ColumnName="Persona_Editada" />
+          <ScalarProperty Name="Tipo_edicion" ColumnName="Tipo_edicion" />
+          <ScalarProperty Name="Usario_Editor" ColumnName="Usario_Editor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="PersonaPersonal" TypeName="Model1.PersonaPersonal" StoreEntitySet="PersonalSet">
+      <EndProperty Name="Persona">
+        <ScalarProperty Name="Id" ColumnName="Persona_Id" />
+      </EndProperty>
+      <EndProperty Name="Personal">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="CargoPersonal" TypeName="Model1.CargoPersonal" StoreEntitySet="PersonalSet">
+      <EndProperty Name="Cargo">
+        <ScalarProperty Name="Id" ColumnName="Cargo1_Id" />
+      </EndProperty>
+      <EndProperty Name="Personal">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="Tipo_ContratoPersonal" TypeName="Model1.Tipo_ContratoPersonal" StoreEntitySet="PersonalSet">
+      <EndProperty Name="Tipo_Contrato">
+        <ScalarProperty Name="Id" ColumnName="Tipo_Contrato_Id" />
+      </EndProperty>
+      <EndProperty Name="Personal">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="NivelPersonal" TypeName="Model1.NivelPersonal" StoreEntitySet="PersonalSet">
+      <EndProperty Name="Nivel">
+        <ScalarProperty Name="Id" ColumnName="Nivel1_Id" />
+      </EndProperty>
+      <EndProperty Name="Personal">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="UsuarioPersonal" TypeName="Model1.UsuarioPersonal" StoreEntitySet="PersonalSet">
+      <EndProperty Name="Usuario">
+        <ScalarProperty Name="Id" ColumnName="Usuario_Id" />
+      </EndProperty>
+      <EndProperty Name="Personal">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ConyuguePersona" TypeName="Model1.ConyuguePersona" StoreEntitySet="ConyugueSet">
+      <EndProperty Name="Persona">
+        <ScalarProperty Name="Id" ColumnName="Persona_Id" />
+      </EndProperty>
+      <EndProperty Name="Conyugue">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PersonaHijo" TypeName="Model1.PersonaHijo" StoreEntitySet="HijoSet">
+      <EndProperty Name="Persona">
+        <ScalarProperty Name="Id" ColumnName="Persona_Id" />
+      </EndProperty>
+      <EndProperty Name="Hijo">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

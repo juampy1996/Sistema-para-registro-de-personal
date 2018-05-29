@@ -1,0 +1,37 @@
+﻿<Window x:Class="Proyecto.Pantalla8Hijo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pantalla8Hijo" Height="440.707" Width="1202.655">
+    <Grid Margin="0,0,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="101*"/>
+            <RowDefinition Height="309*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Registro Hijo" HorizontalAlignment="Left" Margin="165,38,0,0" VerticalAlignment="Top" Height="40" FontSize="20" FontWeight="Bold" Width="136"/>
+        <Label Content="Ci" HorizontalAlignment="Left" Margin="52,4,0,0" VerticalAlignment="Top" Width="25" Grid.Row="1"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="52,35,0,0" VerticalAlignment="Top" Width="66" Grid.Row="1"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="53,66,0,0" VerticalAlignment="Top" Width="67" Grid.Row="1"/>
+        <Label Content="Fecha de Nacimiento" HorizontalAlignment="Left" Margin="53,99,0,0" VerticalAlignment="Top" Width="147" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" x:Name="Cihijo" Height="23" Margin="251,7,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left"  x:Name="Nombrehijo" Height="23" Margin="251,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left"  x:Name="Apellidohijo" Height="23" Margin="251,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Grid.Row="1"/>
+        <DatePicker x:Name="dtFechahijo"  HorizontalAlignment="Left" Margin="251,101,0,0" VerticalAlignment="Top" IsTodayHighlighted="False" Width="209" Grid.Row="1"/>
+        <Label Content="Género" HorizontalAlignment="Left" Margin="56,139,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.658,0.154" Width="60" Grid.Row="1"/>
+        <RadioButton Content="F" x:Name="RBHF" HorizontalAlignment="Left" Margin="251,145,0,0" VerticalAlignment="Top" Width="35" Grid.Row="1"/>
+        <RadioButton Content="M" x:Name="RBHM" HorizontalAlignment="Left" Margin="321,145,0,0" VerticalAlignment="Top" Width="41" Grid.Row="1"/>
+        <Button Content="Agregar" x:Name="AgregarHijos" HorizontalAlignment="Left" Margin="151,180,0,0" VerticalAlignment="Top" Width="99" Height="36" Click="AgregarHijos_Click_1" Grid.Row="1" />
+        <Button Content="Editar" x:Name="EditarHijos" HorizontalAlignment="Left" Margin="257,180,0,0" VerticalAlignment="Top" Width="99" Height="36" Click="EditarHijos_Click" Grid.Row="1" IsEnabled="False" />
+        <Button Content="Eliminar" x:Name="EliminarHijos" HorizontalAlignment="Left" Margin="362,180,0,0" VerticalAlignment="Top" Width="99" Height="36" Click="EliminarHijos_Click" Grid.Row="1" />
+        <Button Content="Limpiar" x:Name="LimpiarHijos" HorizontalAlignment="Left" Margin="46,180,0,0" VerticalAlignment="Top" Width="99" Height="36" Click="LimpiarHijos_Click" Grid.Row="1" />
+        <DataGrid x:Name="dgHijo" HorizontalAlignment="Left" Margin="515,38,0,0" VerticalAlignment="Top" Height="338" Width="625" RenderTransformOrigin="-0.027,-1.715" AutoGenerateColumns="False" MinColumnWidth="156" CanUserResizeColumns="False" SelectionChanged="dgHijo_SelectionChanged" Grid.RowSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Ci_Hijo}"  Header="Ci"/>
+                <DataGridTextColumn Binding="{Binding Nombre_Hijo}"  Header="Nombre"/>
+                <DataGridTextColumn Binding="{Binding Apellido_Hijo}"  Header="Apellido"/>
+                <DataGridTextColumn Binding="{Binding FechaNaciemiento_Hijo}" Header="Fecha Nacimiento"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
